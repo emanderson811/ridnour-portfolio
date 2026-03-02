@@ -8,9 +8,9 @@ Erin holds an M.A. in American Studies from the University of Wyoming, where her
 
 Her current research includes Computers Reading Cookbooks, a collections-as-data project utilizing community cookbooks from the Library’s Iowa Cookbook Collection. Using Python and natural language processing tools, she analyzes these cookbook texts to identify shared foodways, trace how dishes evolve over time, and surface both common and culturally distinct culinary traditions across Iowa communities. She is also building expertise in static web development and web mapping through the Campus Cornerstones project, which uses open-source GIS tools to connect historical maps, photographs, and texts in an interactive exploration of Iowa State University’s campus history.
 
-## Current Projects
+## Featured Project
 
-{% include card.html img="toledoclub.jpg" header="Computers Reading Cookbooks" centered="true" width="25" %}
+{% include card.html img="toledoclub.jpg" title="Computers Reading Cookbooks" text="A collections-as-data project examining a selection of community cookbooks from the Library’s Iowa Cookbook Collection using NLP tools." width="25" %}
 
 ## Recent Posts
 
