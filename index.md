@@ -10,7 +10,7 @@ Her current research includes Computers Reading Cookbooks, a collections-as-data
 
 ## Current Projects
 
-{% include card.html img="toledoclub.jpg;old-main_004_sm.jpg;day-title-page.jpg" header="Computers Reading Cookbooks;Campus Cornerstones;The Day Edition" centered="true" %}
+{% include card.html img="toledoclub.jpg" header="Computers Reading Cookbooks" centered="true" %}
 
 ## Recent Posts
 
