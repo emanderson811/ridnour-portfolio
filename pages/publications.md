@@ -14,5 +14,5 @@ nav_order: 1
 
 - [**The Heart of the University: Parks Library at 100**](https://digital.lib.iastate.edu/exhibits/parkscentennial/)
 - [**Tracing Race at Iowa State University**](https://digital.lib.iastate.edu/projects/tracingrace/)
-- [**Iowa state University Museums Art on Campus Tour**](https://storymaps.arcgis.com/stories/54d860a8a2284111a379f0a0c893fffc)
+- [**Iowa State University Museums Art on Campus Tour**](https://storymaps.arcgis.com/stories/54d860a8a2284111a379f0a0c893fffc)
 - [**Avian Archives of Iowa Online (avIAn)**](https://avian.lib.iastate.edu/)
