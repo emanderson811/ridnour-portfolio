@@ -13,9 +13,9 @@ title: Erin Ridnour
 description: "Professional Portfolio"
 year: 2025
 author: Erin Ridnour 
+bio: "Erin Ridnour is a digital scholarship librarian at Iowa State University Library specializing in project management and instruction on geospatial humanities, text analysis and digital storytelling."
 # personal urls
-image: /assets/img/Ridnour_Erin.png
-bio: "Erin Ridnour is a digital scholarship librarian at Iowa State University Library specializing in project management and instruction on geospatial humanities, text analysis and digital storytelling." 
+image: /assets/img/Ridnour_Erin.png 
 email: emanders@iastate.edu
 github: https://github.com/emanderson811
 school: https://digital.lib.iastate.edu/
@@ -61,6 +61,10 @@ navbar-color: navbar-light
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
 navbar-background: bg-light
+
+# ICONS [optional!]
+# Generates icons for sidebar information from https://fontawesome.com/
+fontawesome: true
 
 # BOOTSWATCH THEMES [optional!]
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
