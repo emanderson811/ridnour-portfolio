@@ -1,5 +1,5 @@
-# portfolio-template
+# ridnou-portfolio
 
-[portfolio-template](https://github.com/isu-digital/portfolio-template) is a basic template repository to create an academic or professional portfolio website using [Bootstrap 5](https://getbootstrap.com/) and Jekyll on GitHub Pages. 
+This repository hosts an example professional portfolio website for use in a workshop taught by Digital Scholarship and Initiatives at Iowa State University Library.
 
-The layout is based on the [bootstrap-template](https://github.com/thecdil/bootstrap5-template).
+The layout is based on the [portfolio-template](https://github.com/isu-digital/portfolio-template).
