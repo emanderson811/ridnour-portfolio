@@ -10,7 +10,7 @@ Her current research includes Computers Reading Cookbooks, a collections-as-data
 
 ## Featured Project
 
-{% include card.html img="toledoclub.jpg" title="[Computers Reading Cookbooks](https://emanderson811.github.io/computers-reading-cookbooks/)" text="A collections-as-data project examining a selection of community cookbooks from the Library’s Iowa Cookbook Collection using NLP tools." width="50" %}
+{% include card.html img="toledoclub.jpg" title="[Computers Reading Cookbooks](https://emanderson811.github.io/computers-reading-cookbooks/)" text="A collections-as-data project examining Iowa Community Cookbooks with NLP tools" width="25" %}
 
 ## Recent Posts
 
