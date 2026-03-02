@@ -1,1 +1,9 @@
 /* add your scss tweaks here */
+
+.blog-roll-image {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    float: left;
+    margin-right: 10px;
+}
