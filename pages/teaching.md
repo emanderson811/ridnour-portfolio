@@ -4,6 +4,8 @@ nav: Workshops
 nav_order: 3
 ---
 
+{% include jumbotron.html heading="Upcoming Workshop" text="**Creating an Academic Portfolio Website with GitHub Pages**,Tuesday, March 3, 2026, 2:00-4:00pm, The Catalyst (Parks 199)" button-text="Register Here" button-link="https://iastate.libcal.com/event/16174559" text-color="light" %}
+
 ## Current Semester
 
 - **Data Viz Glow Up: Pick a Chart Type**
