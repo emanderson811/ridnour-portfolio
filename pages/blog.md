@@ -18,7 +18,7 @@ nav_order: 4
     <li>
       <div class="post-card">
         {% if post.image %}
-        <img src="{{ post.image | relative_url }}" class="post-card-image" alt="{{ post.image-alt }}"> 
+        <img src="{{ '/assets/img/' | append: post.image | relative_url }}" class="blog-roll-image" alt="post.image-alt"> 
         {% endif %}
         <div class="post-card-content">
           <h2>
