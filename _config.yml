@@ -88,14 +88,14 @@ defaults:
 - scope:
     path: "pages"
   values:
-    layout: profile-page-left
+    layout: profile-page-right
     permalink: /:basename:output_ext
 # index.md
 - scope:
     path: ""
     type: pages
   values:
-    layout: profile-page-left
+    layout: profile-page-right
 
 # Blog Settings
 show_excerpts: true
