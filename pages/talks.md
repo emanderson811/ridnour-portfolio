@@ -4,6 +4,12 @@ nav: Talks
 nav_order: 2
 ---
 
+*Learn to Read Cookbooks with Computers*, Workshop, Carlton College Day of Digital Humanities; Northfield MN, June 2026 
+
+*Computers Reading Cookbooks*, Lightning talk and digital demonstration, Carleton College Day of Digital Humanities; Northfield, MN, June 2026
+
+*Building Impact: How ISU Experts Share their Work*, Panel discussion, Iowa State University Library; Ames, IA, Oct 2025
+
 *Getting Started with CollectionBuilder: A Static Web Framework for Digital Collections Sites*, Breakout session, Carleton College Day of Digital Humanities; Northfield, MN, June 2025
 
 *Campus Cornerstones: A Mapped History of Iowa State University*, Lightning talk and digital demonstration, Carleton College Day of Digital Humanities; Northfield, MN, June 2025
