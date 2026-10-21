@@ -7,7 +7,7 @@ nav_order: 1
 ## Current Projects
 
 - [**Computers Reading Cookbooks**](https://emanderson811.github.io/computers-reading-cookbooks/)
-- [**Campus Cornerstones: A mapped history of Iowa State University**](https://isu-digital.github.io/historic-buildings/)
+- [**Campus Cornerstones: A mapped history of Iowa State University**](https://digital.lib.iastate.edu/projects/campuscornerstones/)
 - [**The Day Edition**](https://emanderson811.github.io/day-edition/)
 
 ## Past Projects
